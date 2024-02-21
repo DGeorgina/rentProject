@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "889321602872",
+    "project_id": "rentmis",
+    "storage_bucket": "rentmis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889321602872:android:88cc38691790e2f3db0bcd",
+        "android_client_info": {
+          "package_name": "com.example.rent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOxjRAr8vKGlKepCT758LfTs6dgplRVLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
